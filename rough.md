@@ -1,16 +1,16 @@
-OUTPUT x 4 times:
+OUTPUT x 4times:
 
-$ g++ -o out character.cpp
+$ g++ -o out leap.cpp
 $ ./out
 
-Enter a char: A
-Capital letter
+Enter a year: 2001
+Not Leap year
 
-Enter a char: b
-Small letter
+Enter a year: 2004
+Leap year
 
-Enter a char: 2
-Digit
+Enter a year: 1300
+Not Leap year
 
-Enter a char: %
-Special char
+Enter a year: 1600
+Leap year
