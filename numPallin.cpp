@@ -21,7 +21,7 @@ int main()
     if (no == rev)
         cout << rev << " is a number pallindrome" << endl;
     else
-        cout << rev << "is not a number pallindrome" << endl;
+        cout << rev << " is not a number pallindrome" << endl;
 
     return 0;
 }
