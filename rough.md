@@ -1,14 +1,11 @@
 C++:
-$ g++ -o out noSemi.cpp
-$ ./out
+$ g++ -o <name> <filename.cpp>
+$ ./<name>
+
 C:
-$ cc noSemi.c
+$ cc <filename.c>
 $ ./a.out
 
-JAVA:
-$ javac NoSemi.java
-$ java NoSemi
-=========================
 OUTPUT:
 
-Hello World :)
+1 2 3 4 5
