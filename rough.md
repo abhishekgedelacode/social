@@ -1,16 +1,14 @@
-OUTPUT x 4times:
-
-$ g++ -o out leap.cpp
+C++:
+$ g++ -o out noSemi.cpp
 $ ./out
+C:
+$ cc noSemi.c
+$ ./a.out
 
-Enter a year: 2001
-Not Leap year
+JAVA:
+$ javac NoSemi.java
+$ java NoSemi
+=========================
+OUTPUT:
 
-Enter a year: 2004
-Leap year
-
-Enter a year: 1300
-Not Leap year
-
-Enter a year: 1600
-Leap year
+Hello World :)
