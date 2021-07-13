@@ -6,6 +6,14 @@ C:
 $ cc <filename.c>
 $ ./a.out
 
+JAVA:
+$ javac <Filename.java>
+$ java <Filename>
+
 OUTPUT:
 
-1 2 3 4 5
+Enter number: 45
+Odd
+
+Enter number: 10
+Even
