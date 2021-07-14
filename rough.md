@@ -12,8 +12,7 @@ $ java <Filename>
 
 OUTPUT:
 
-Enter number: 45
-Odd
-
-Enter number: 10
-Even
+dec: 10
+bin: 2
+oct: 8
+hex: 16
