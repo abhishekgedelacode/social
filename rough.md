@@ -12,7 +12,8 @@ $ java <Filename>
 
 OUTPUT:
 
-dec: 10
-bin: 2
-oct: 8
-hex: 16
+Enter number: 2
+Prime number
+
+Enter number: 9
+Not prime number
