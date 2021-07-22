@@ -17,3 +17,9 @@ Prime number
 
 Enter number: 9
 Not prime number
+
+OUTPUT:
+
+$ python3 <filename.py>
+
+AbhiCode!
