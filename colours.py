@@ -1,6 +1,6 @@
 from fabulous.color import bold, red, green, blue
 from fabulous.color import fg256, highlight256
-print("AbhiCode!")
+print("normal :AbhiCode!")
 print(bold(red("AbhiCode!")))
 print(bold(green("AbhiCode!")))
 print(bold(blue("AbhiCode!")))
