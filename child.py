@@ -1,10 +1,5 @@
-from time import sleep
-print("\t\t\t\t\U0001F476")
-sleep(1)
-print("\U0001F476")
-print("\U0001F469")
-# print("\t\t\t\t########################\n\t\t\t\t# Happy Children's Day #\n\t\t\t\t########################")
-print("\t\t\t\t########################")
-print("\t\t\t\t# Happy Children's Day #")
-print("\t\t\t\t########################")
-print("\U0001F476")
+a = ["     1110 - 1011    ", "Happy Children's Day", "     HBD Jawahar    "]
+for i in range(3):
+    print("\n\n\t\t\t\t##########################")
+    print("\t\t\t\t\U0001F339 "+a[i]+" \U0001F339")
+    print("\t\t\t\t##########################")
