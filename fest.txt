@@ -3,5 +3,6 @@
 15-1 = indian army day  
 bhogi 
 sankranti 
-kanuma 
+kanuma
+23-1 = subhas chandra bose birthday 
 26-1 = republic day 
