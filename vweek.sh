@@ -163,4 +163,4 @@ for i in {1..8}; do echo -n 💔 ❤️‍🩹; done
 echo -e "\n"
 sleep 0.5 
 clear 
-cat rough.txt | lolcat 
+jp2a rk2.jpg --colors 
