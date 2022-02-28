@@ -7,5 +7,8 @@ kanuma
 23-1 = subhas chandra bose birthday 
 26-1 = republic day
 14-2 = pulwama attack 
-14-2 = valentine's day 
+14-2 = valentine's day
+28-2 = national science day
+maha shivaratri
+ 
  
