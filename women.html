@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      body {
+        width: 100%;
+        height: 100vh;
+        background: url("./women.jpg");
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        vertical-align: middle;
+      }
+      h1 {
+        height: 40%;
+        width: 80%;
+        text-align: center;
+        text-shadow: 2px 2px white;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="q">
+      I want to see my country's culture as sons are trained to be soldiers and
+      daughters to be the Leaders.
+    </h1>
+    <script>
+      const h = document.getElementById("q");
+      h.addEventListener("mouseenter", () => {
+        h.style.color = "#fd79a8";
+        h.style.background = "none";
+        h.style.fontSize = "70px";
+        h.innerText = "\nHappy \n International Women's Day \n 8th March 2k22";
+      });
+      h.addEventListener("mouseleave", () => {
+        h.style.color = "#81ecec";
+        h.style.borderRadius = "25px";
+        h.style.fontSize = "60px";
+        h.style.background =
+          "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))";
+        h.innerText =
+          "I want to see my country's culture as sons are trained to be soldiers and daughters to be the Leaders.";
+      });
+    </script>
+  </body>
+</html>
