@@ -41,6 +41,7 @@ echo -e "${BOLDYELLOW}"
 python3 intro.py 
 sleep 0.5
 lolcat intro.txt -a -d 50
-#google-chrome intro.html
+sleep 1
+google-chrome intro.html
 echo -e "${ENDCOLOR}"
 
